@@ -7,7 +7,7 @@ breadcrumb-title: Web User Interface - Tutorials
 auto-video-transcripts: true
 ---
 
-# Adobe Campaign v8 Web Tutorials {#tutorials}
+# Adobe Campaign Web User Interface Tutorials {#tutorials}
 
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Get Started {#getting-started}
