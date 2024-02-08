@@ -23,4 +23,4 @@ auto-video-transcripts: true
 + Test a campaign {#test-campaign}
 + Execute campaigns {#execute-campaigns}
 + Report {#report}
-+ (Campaign Client Console tutorials)[https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en]
++ [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
