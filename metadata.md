@@ -1,12 +1,12 @@
 ---
 cloud: Experience Cloud
-version: v8
-solution: Campaign, Campaign v8 Web
-product: adobe campaign-web
+version: Campaign, v8
+solution: Campaign, v8
+product: Campaign
 feature-set: Campaign
 type: Tutorial
 hide: yes
-git-repo: https://github.com/AdobeDocs/template.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-web-learn.en
 ---
 
 # Metadata for internal use

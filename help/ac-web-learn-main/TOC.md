@@ -19,6 +19,7 @@ auto-video-transcripts: true
 + Targeting in Campaign {#targeting}
 + Create, schedule, and send deliveries {#create-schedule-send-deliveries}
 + Design a delivery {#design-a-delivery}
+  + [Create and improve email content with the Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + Test a campaign {#test-campaign}
 + Execute campaigns {#execute-campaigns}
 + Report {#report}
