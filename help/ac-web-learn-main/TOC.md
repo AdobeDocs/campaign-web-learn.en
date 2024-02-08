@@ -3,7 +3,7 @@ product: adobe campaign
 sub-product: Campaign V8 Web
 user-guide-title: Adobe Campaign Tutorials
 user-guide-description: Learn how to use the features and capabilities of the Adobe Campaign V8 web UI.
-breadcrumb-title: Web - Tutorials
+breadcrumb-title: Web User Interface - Tutorials
 auto-video-transcripts: true
 ---
 
