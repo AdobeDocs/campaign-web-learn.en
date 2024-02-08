@@ -9,7 +9,7 @@ auto-video-transcripts: true
 
 # Adobe Campaign v8 Web Tutorials {#tutorials}
 
-+ [Adobe Campaign v8 Web](/help/overview.md)
++ [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Get Started {#getting-started}
   + [Explore the web UI](/help/get-started/explore-the-web-ui.md)
   + [Navigate between web UI and Client console](/help/get-started/navigate-between-web-UI-and-client-console.md)
@@ -23,3 +23,4 @@ auto-video-transcripts: true
 + Test a campaign {#test-campaign}
 + Execute campaigns {#execute-campaigns}
 + Report {#report}
++ (Campaign Client Console tutorials)[https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en]

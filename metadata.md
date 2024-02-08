@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-version: Campaign, Campaign v8
+version: v8
 solution: Campaign, Campaign v8
 product: Campaign
 feature-set: Campaign
