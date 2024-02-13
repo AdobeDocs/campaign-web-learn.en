@@ -1,8 +1,8 @@
 ---
 product: adobe campaign
-sub-product: Campaign V8 Web
-user-guide-title: Adobe Campaign Tutorials
-user-guide-description: Learn how to use the features and capabilities of the Adobe Campaign V8 web UI.
+sub-product: Campaign v8 Web User Interface
+user-guide-title: Adobe Campaign Web User Interface
+user-guide-description: Learn how to use the features and capabilities of the Adobe  Campaign Web User Interface.
 breadcrumb-title: Web User Interface - Tutorials
 auto-video-transcripts: true
 ---
@@ -11,7 +11,7 @@ auto-video-transcripts: true
 
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Get Started {#getting-started}
-  + [Explore the web UI](/help/get-started/explore-the-web-ui.md)
+  + [Explore the Campaign Web User Interface](/help/get-started/explore-the-web-ui.md)
   + [Get to know the Knowledge Assistant](/help/get-started/get-to-know-the-knowledge-assistant.md)
 + Create Campaigns {#create-campaigns}
 + Create and manage profiles {#create-and-manage-profiles}

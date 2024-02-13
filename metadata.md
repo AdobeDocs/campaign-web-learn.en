@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 version: v8
-solution: Campaign, Campaign v8
+solution: Campaign, Campaign v8 Web User Interface
 product: Campaign
 feature-set: Campaign
 type: Tutorial
