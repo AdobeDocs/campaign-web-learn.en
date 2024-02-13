@@ -12,7 +12,7 @@ auto-video-transcripts: true
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Get Started {#getting-started}
   + [Explore the Campaign Web User Interface](/help/get-started/explore-the-web-ui.md)
-  + [Get to know the Knowledge Assistant](/help/get-started/get-to-know-the-knowledge-assistant.md)
+  + [Explore Profiles](/help/get-started/explore-profiles.md)
 + Create Campaigns {#create-campaigns}
 + Create and manage profiles {#create-and-manage-profiles}
 + Targeting in Campaign {#targeting}
