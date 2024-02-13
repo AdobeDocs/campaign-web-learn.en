@@ -16,3 +16,7 @@ thumbnail: 3425867.jpeg
 Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+
+For more information on this feature, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=en).
+
+
