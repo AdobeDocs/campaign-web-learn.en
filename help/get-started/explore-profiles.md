@@ -1,7 +1,6 @@
 ---
 title: Explore profiles in the Adobe Campaign Web User Interface
 description: Learn how to access, manage, and explore profiles using the Campaign Web User Interface.
-version: 
 feature: Profiles
 role: User
 level: Beginner
