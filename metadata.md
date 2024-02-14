@@ -6,7 +6,7 @@ product: adobe campaign-web
 feature-set: Campaign
 type: Tutorial
 hide: yes
-git-repo: https://github.com/AdobeDocs/template.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-web-learn.en
 ---
 
 # Metadata for internal use
