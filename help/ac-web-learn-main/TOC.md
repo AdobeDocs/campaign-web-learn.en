@@ -12,15 +12,10 @@ auto-video-transcripts: true
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Get Started {#getting-started}
   + [Explore the Campaign Web User Interface](/help/get-started/explore-the-web-ui.md)
-  + [Explore Profiles](/help/get-started/explore-profiles.md)
-+ Create Campaigns {#create-campaigns}
-+ Create and manage profiles {#create-and-manage-profiles}
-+ Targeting in Campaign {#targeting}
-+ Create, schedule, and send deliveries {#create-schedule-send-deliveries}
-+ Design a delivery {#design-a-delivery}
++ Messages and Deliveries {#messages-and-deliveries}
+  + [Create an email delivery](/help/deliveries/create-an-email-delivery.md)
   + [Design email content from scratch](/help/design-the-delivery/create-email-content-from-scratch.md)
   + [Create and improve email content with the Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-+ Test a campaign {#test-campaign}
-+ Execute campaigns {#execute-campaigns}
-+ Report {#report}
++ Profiles and audiences {#profiles-and-audiences}
+  + [Explore Profiles](/help/get-started/explore-profiles.md)
 + [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)

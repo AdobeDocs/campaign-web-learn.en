@@ -17,5 +17,5 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 > These tutorials are not what you are looking for? 
 > Please see the
 > 
-> * [Campaign v8 tutorial section](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) for guidance on the Campaign Console
+> * [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) for guidance on the Campaign Console
 > * [Adobe Campaign Web Documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) for more information about the Campaign Web user interface.
