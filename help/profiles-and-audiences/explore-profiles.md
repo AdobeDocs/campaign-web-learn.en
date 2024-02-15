@@ -17,4 +17,4 @@ Learn how to access, manage, and explore profiles using the Campaign Web User In
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-For more information on this feature, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/gs-audiences-recipients.html?lang=en)
+For more information on this feature, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)

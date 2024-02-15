@@ -17,5 +17,6 @@ auto-video-transcripts: true
   + [Design email content from scratch](/help/design-the-delivery/create-email-content-from-scratch.md)
   + [Create and improve email content with the Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
 + Profiles and audiences {#profiles-and-audiences}
-  + [Explore Profiles](/help/get-started/explore-profiles.md)
+  + [Explore Profiles](/help/profiles-and-audiences/explore-profiles.md)
+  + [Manage and build audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
 + [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
