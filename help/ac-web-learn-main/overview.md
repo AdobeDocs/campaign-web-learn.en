@@ -20,4 +20,4 @@ New videos will be added on a regular basis.
 > Please see the
 > 
 > * [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) for guidance on the Campaign Console
-> * [Adobe Campaign Web Documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) for more information about the Campaign Web user interface.
+> * [Adobe Campaign Web Documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) for more information about the Campaign Web user interface.
