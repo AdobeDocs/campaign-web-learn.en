@@ -22,9 +22,6 @@ New videos will be added on a regular basis.
 > * [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) for guidance on the Campaign Console
 > * [Adobe Campaign Web Documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) for more information about the Campaign Web user interface.
 
-<div id="whats-new-section">
-</div>
-
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
