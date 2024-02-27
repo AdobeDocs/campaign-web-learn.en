@@ -9,7 +9,7 @@ level: Beginner, Intermediate, Experienced
 
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface. New videos are added regularly.
 
-Campaign platform customization based on business and data needs, and connection to other systems are managed in the Campaign client console. As a consequence, some settings and features can only be accessed, created, or managed from Campaign client console. See the (Campaign Web and Client Console guide)[https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html] for an overview over the settings and features which will become in future.  
+Campaign platform customization based on business and data needs, and connection to other systems are managed in the Campaign client console. As a consequence, some settings and features can only be accessed, created, or managed from Campaign client console. See the [Campaign Web and Client Console guide](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html) for an overview over the settings and features which will become in future.  
 
 >[!INFO]
 > 
