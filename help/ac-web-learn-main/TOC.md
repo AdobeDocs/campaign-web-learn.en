@@ -20,3 +20,6 @@ auto-video-transcripts: true
   + [Explore Profiles](/help/profiles-and-audiences/explore-profiles.md)
   + [Manage and build audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
 + [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
++ Workflows {#workflows}
+  + [Create a targeting workflow](/help/workflows/create-a-targeting-workflow.md)
+  
