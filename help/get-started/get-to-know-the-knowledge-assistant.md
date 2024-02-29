@@ -8,6 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-11-29
 jira: KT-14453
 thumbnail: 3425807.jpeg
+hidefromtoc: Yes
+hide: Yes
 ---
 
 # Get to know the Knowledge Assistant
