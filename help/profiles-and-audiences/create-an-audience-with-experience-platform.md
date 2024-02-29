@@ -13,6 +13,6 @@ thumbnail: 3427635.jpeg
 
 # Create an audience with Experience Platform
 
-Learn how to create a destination to map an Experience Platform Audience to Adobe Campaign.
+Learn how to create a destination to use an Experience Platform audience in Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427635/?learn=on)
