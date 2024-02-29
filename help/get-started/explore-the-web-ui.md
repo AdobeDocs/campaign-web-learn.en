@@ -15,3 +15,5 @@ thumbnail: 3427278.jpeg
 Learn how to access and navigate the Campaign Web User Interface and how to customize the inventory lists. Discover the AI powered Knowledge Assistant. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+
+See [Get started with Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html) for more information on how to navigate the Campaign v8 web user interface.
