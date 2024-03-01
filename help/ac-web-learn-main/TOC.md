@@ -25,6 +25,6 @@ auto-video-transcripts: true
 + Workflows {#workflows}
   + [Create a targeting workflow](/help/workflows/create-a-targeting-workflow.md)
 + [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
-+ [Experience League Live recordings]{#exl-live-recordings}
++ Experience League Live recordings {#exl-live-recordings}
   + [Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
   
