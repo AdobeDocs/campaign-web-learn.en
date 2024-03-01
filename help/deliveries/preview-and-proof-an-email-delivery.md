@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 386
 last-substantial-update: 2024-02-29
 jira: KT-14404
-thumbnail: 3425862.jpeg
 ---
 
 # Preview and proof an email delivery

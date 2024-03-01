@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 441
 last-substantial-update: 2024-02-29
 jira: KT-14577
-thumbnail: 3427635.jpeg
 ---
 
 # Create an audience with Experience Platform

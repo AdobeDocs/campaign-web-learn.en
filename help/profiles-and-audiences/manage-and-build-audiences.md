@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 615
 last-substantial-update: 2024-02-15
 jira: KT-14392
-thumbnail: 3425861.jpeg
 ---
 
 # Manage and build audiences

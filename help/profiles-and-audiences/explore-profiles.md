@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2024-02-13
 jira: KT-14390
-thumbnail: 3427293.jpeg
 ---
 
 # Explore profiles in the Adobe Campaign Web User Interface

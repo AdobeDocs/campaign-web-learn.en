@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 808
 last-substantial-update: 2024-02-14
 jira: KT-14394
-thumbnail: 3425866.jpeg
 ---
 
 # Create an email delivery

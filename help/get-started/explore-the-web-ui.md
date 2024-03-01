@@ -7,7 +7,6 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-11-29
 jira: KT-14388
-thumbnail: 3427278.jpeg
 ---
 
 # Explore the Campaign Web User Interface

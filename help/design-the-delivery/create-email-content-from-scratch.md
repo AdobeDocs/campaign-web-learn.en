@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 624
 last-substantial-update: 2024-02-13
 jira: KT-14395
-thumbnail: 3425867.jpeg
 ---
 
 # Design email content from scratch

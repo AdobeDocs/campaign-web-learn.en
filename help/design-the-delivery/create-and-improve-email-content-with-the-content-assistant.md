@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 464
 last-substantial-update: 2024-02-08
 jira: KT-14454
-thumbnail: 3425796.jpeg
 hidefromtoc: Yes
 hide: Yes
 badgeAlpha: label="Alpha" type="informative" before-title="true"

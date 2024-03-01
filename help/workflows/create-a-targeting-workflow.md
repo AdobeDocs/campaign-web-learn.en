@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 763
 last-substantial-update: 2024-02-28
 jira: KT-14393
-thumbnail: 3425873.jpeg
 ---
 
 # Create a targeting workflow

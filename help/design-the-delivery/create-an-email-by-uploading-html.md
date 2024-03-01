@@ -8,7 +8,6 @@ doc-type: Feature Video
 duration: 251
 last-substantial-update: 2024-02-29
 jira: KT-14954
-thumbnail: 3427633.jpeg
 ---
 
 # Create an email by uploading  HTML
