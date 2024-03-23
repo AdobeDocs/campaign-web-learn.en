@@ -5,6 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
+exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
 ---
 # Adobe Campaign Web User Interface Tutorials
 
@@ -37,4 +38,3 @@ Campaign platform customization based on business and data needs, and connection
 * **[Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
 
     *Learn how to plan, launch and measure cross-channel campaigns in the new user experience.*
-

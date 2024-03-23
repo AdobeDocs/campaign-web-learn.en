@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 763
 last-substantial-update: 2024-02-28
 jira: KT-14393
+exl-id: fa2ca5cd-decd-4360-86fc-412b06fae18a
 ---
-
 # Create a targeting workflow
 
 Understand how workflows work and how to create a targeting workflow.

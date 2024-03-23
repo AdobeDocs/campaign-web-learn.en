@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 251
 last-substantial-update: 2024-02-29
 jira: KT-14954
+exl-id: 653bb340-6aa9-4ac9-b027-0e22355c8fbf
 ---
-
 # Create an email by uploading  HTML
 
 Learn how to create an email by uploading HTML, how to make it compatible with the email designer and how to convert it to a template.

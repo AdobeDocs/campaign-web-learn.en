@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 808
 last-substantial-update: 2024-02-14
 jira: KT-14394
+exl-id: 94115929-c74f-4697-b2af-d57bcfc2735d
 ---
-
 # Create an email delivery
 
 Learn how to create an email delivery from scratch, define the audience, design the content, simulate preview, and send a proof.

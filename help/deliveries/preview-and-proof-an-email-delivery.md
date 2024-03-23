@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 386
 last-substantial-update: 2024-02-29
 jira: KT-14404
+exl-id: 4fcf42c6-d8e9-4aff-8e06-822aa381ffd7
 ---
-
 # Preview and proof an email delivery
 
 Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.

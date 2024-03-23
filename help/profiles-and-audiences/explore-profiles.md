@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2024-02-13
 jira: KT-14390
+exl-id: 496e5a15-f90d-4901-ae53-3dfbb4d8758f
 ---
-
 # Explore profiles in the Adobe Campaign Web User Interface
 
 Learn how to access, manage, and explore profiles using the Campaign Web User Interface.

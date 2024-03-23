@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 615
 last-substantial-update: 2024-02-15
 jira: KT-14392
+exl-id: 59bd4866-02de-4bf6-a104-96416251e850
 ---
-
 # Manage and build audiences
 
 Learn how to build and manage audiences, how to select audiences for a delivery, and define control groups.
