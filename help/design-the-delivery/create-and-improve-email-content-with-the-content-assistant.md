@@ -1,6 +1,6 @@
 ---
 title: Create and improve email content with the Content Assistant
-description: Learn how to use the generative AI-powered content assistant to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.
+description: Learn how to use the generative AI-powered content assistant to create and enhance the email content.
 feature: Email Design
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
 ---
 # Create and improve email content with the Content Assistant
 
-Learn how to use the generative AI-powered content assistant to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.
+Learn how to use the generative AI-powered content assistant to create and enhance the email content.
 
 >[!NOTE]
 >
@@ -23,4 +23,4 @@ Learn how to use the generative AI-powered content assistant to create and enhan
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-For more information on this feature, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html).
+For more information on this feature, see the [product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
