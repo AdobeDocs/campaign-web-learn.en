@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-11-29
 jira: KT-14388
-duration: 598
+duration: 592
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
 ---
 # Explore the Campaign Web User Interface
