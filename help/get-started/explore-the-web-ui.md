@@ -7,11 +7,12 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-11-29
 jira: KT-14388
+duration: 598
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
 ---
 # Explore the Campaign Web User Interface
 
-Learn how to access and navigate the Campaign Web User Interface and how to customize the inventory lists. Discover the AI powered Knowledge Assistant. 
+Learn how to access and navigate the Campaign Web User Interface and how to customize the inventory lists.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
