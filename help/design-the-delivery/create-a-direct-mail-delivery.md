@@ -1,9 +1,7 @@
 ---
 title: Create a direct mail delivery
 description: Learn how to create a direct mail delivery in the Adobe Campaign v8 web user interface.
-version: 
 feature: Direct Mail
-
 role: User
 level: Beginner
 doc-type: Feature Video
