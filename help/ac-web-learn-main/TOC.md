@@ -19,6 +19,7 @@ auto-video-transcripts: true
   + [Create an email by uploading HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
   + [Create and improve email content with the Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
   + [Preview and proof an email delivery](/help/deliveries/preview-and-proof-an-email-delivery.md)
+  + [Create a direct mail delivery](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profiles and audiences {#profiles-and-audiences}
   + [Explore Profiles](/help/profiles-and-audiences/explore-profiles.md)
   + [Manage and build audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
