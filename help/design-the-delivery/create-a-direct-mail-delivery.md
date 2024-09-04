@@ -16,4 +16,4 @@ Learn how to create a direct mail delivery in the Adobe Campaign v8 web user int
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
 
-See the [product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail) for more information.
+See the [Adobe Campaign Web UI product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail) for more information.
