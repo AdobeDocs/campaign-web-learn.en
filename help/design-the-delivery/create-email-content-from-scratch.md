@@ -16,4 +16,8 @@ Understand how to navigate the Email Designer. Learn how to structure and design
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
 
+>[!NOTE]
+>
+>Access to the Assets menu is limited to users with an active Adobe Experience Essentials license. If you do not hold this license, the Assets menu will be unavailable.
+
 For more information on this feature, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=en).
