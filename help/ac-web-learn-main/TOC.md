@@ -18,6 +18,7 @@ auto-video-transcripts: true
   + [Design email content from scratch](/help/design-the-delivery/create-email-content-from-scratch.md)
   + [Create an email by uploading HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
   + [Create and improve email content with the Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
+  + [Create content with the AI Assistant in Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
   + [Preview and proof an email delivery](/help/deliveries/preview-and-proof-an-email-delivery.md)
   + [Create a direct mail delivery](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profiles and audiences {#profiles-and-audiences}
