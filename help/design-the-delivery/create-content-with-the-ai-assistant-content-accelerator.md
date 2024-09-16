@@ -4,14 +4,10 @@ description: Learn how to use the AI Assistant in Campaign - Content Accelerator
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
-doc-type: Feature Video
-duration: 235
-last-substantial-update: 2024-09-11
 jira: KT-16191
 doc-type: Feature Video
 duration: 206
 last-substantial-update: 2024-09-11
-jira: KT-16191
 hidefromtoc: no
 hide: no
 ---
