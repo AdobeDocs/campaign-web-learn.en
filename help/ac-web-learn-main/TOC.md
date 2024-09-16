@@ -11,8 +11,8 @@ auto-video-transcripts: true
 
 + [Adobe Campaign Web User Interface Tutorials](/help/ac-web-learn-main/overview.md)
 + Get Started {#getting-started}
+  + [Adobe Campaign v8 Adoption Guide](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
   + [Explore the Campaign Web User Interface](/help/get-started/explore-the-web-ui.md)
-  + [Get started with Adobe Campaign v8 after migrating from Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
 + Messages and Deliveries {#messages-and-deliveries}
   + [Create an email delivery](/help/deliveries/create-an-email-delivery.md)
   + [Design email content from scratch](/help/design-the-delivery/create-email-content-from-scratch.md)
