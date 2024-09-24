@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 480
 last-substantial-update: 2024-09-04
 jira: KT-14398
+hidefromtoc: No
 exl-id: f8470477-8b4a-4310-8325-53732c77129f
 ---
 # Create a direct mail delivery
