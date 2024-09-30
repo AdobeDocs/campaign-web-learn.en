@@ -38,3 +38,8 @@ Campaign platform customization based on business and data needs, and connection
 * **[Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
 
     *Learn how to plan, launch and measure cross-channel campaigns in the new user experience.*
+
+* **[AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+    
+    *Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign.*
+  
