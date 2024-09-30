@@ -20,6 +20,7 @@ Campaign platform customization based on business and data needs, and connection
 >
 > These tutorials are not what you are looking for? 
 > See the
+> 
 > * [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"} for guidance on the Campaign Console
 > * [Adobe Campaign Web Documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html){target="_blank"} for more information about the Campaign Web user interface.
 

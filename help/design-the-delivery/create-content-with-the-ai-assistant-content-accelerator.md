@@ -17,3 +17,7 @@ hide: no
 Learn how to use the AI Assistant in Campaign - Content Accelerator to generate channel aware content for real-time 1:1 and batch campaigns that resonate with the target audience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
+
+## Additional resources
+
+* Experience League LIVE: [AI Bash - Unlocking the Power of AI Assistant in Adobe Experience Platform Applications and Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
