@@ -10,8 +10,8 @@ duration: 206
 last-substantial-update: 2024-09-11
 hidefromtoc: no
 hide: no
+exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 ---
-
 # Create content with the AI Assistant in Campaign - Content Accelerator
 
 Learn how to use the AI Assistant in Campaign - Content Accelerator to generate channel aware content for real-time 1:1 and batch campaigns that resonate with the target audience.
