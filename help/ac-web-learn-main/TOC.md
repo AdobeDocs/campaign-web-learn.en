@@ -23,6 +23,7 @@ auto-video-transcripts: true
   + [Create a direct mail delivery](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profiles and audiences {#profiles-and-audiences}
   + [Explore Profiles](/help/profiles-and-audiences/explore-profiles.md)
+  + [Create and manage test profiles](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
   + [Manage and build audiences](/help/profiles-and-audiences/manage-and-build-audiences.md)
   + [Create an audience with Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
