@@ -21,6 +21,8 @@ auto-video-transcripts: true
   + [Create and improve email content with the Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
   + [Create content with the AI Assistant in Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
   + [Create a direct mail delivery](/help/design-the-delivery/create-a-direct-mail-delivery.md)
++ Content management {#content-management}
+  + [Enhance-a-delivery with dynamic content](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Profiles and audiences {#profiles-and-audiences}
   + [Explore Profiles](/help/profiles-and-audiences/explore-profiles.md)
   + [Create and manage test profiles](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
