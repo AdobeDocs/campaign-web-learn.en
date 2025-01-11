@@ -16,4 +16,4 @@ Learn how to make message content dynamic by using the expression editor to pers
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
 
-For more information, see the product documentation on [how to make your content dynamic](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/gs-personalization). 
+ See the product documentation for more information on [how to make your content dynamic](https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/gs-personalization). 
