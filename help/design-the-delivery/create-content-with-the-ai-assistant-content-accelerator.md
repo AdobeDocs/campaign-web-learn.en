@@ -1,6 +1,6 @@
 ---
-title: Create content with the AI Assistant in Campaign - Content Accelerator
-description: Learn how to use the AI Assistant in Campaign - Content Accelerator to generate channel aware content for real-time 1:1 and batch campaigns that resonate with the target audience.
+title: Create content with the AI Assistant for content generation
+description: Learn how to use the AI Assistant for content generation to generate channel aware content for real-time 1:1 and batch campaigns that resonate with the target audience.
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -12,9 +12,9 @@ hidefromtoc: no
 hide: no
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 ---
-# Create content with the AI Assistant in Campaign - Content Accelerator
+# Create content with the AI Assistant for content generation
 
-Learn how to use the AI Assistant in Campaign - Content Accelerator to generate channel aware content for real-time 1:1 and batch campaigns that resonate with the target audience.
+Learn how to use the AI Assistant for content generation to generate channel aware content for real-time 1:1 and batch campaigns that resonate with the target audience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
 
