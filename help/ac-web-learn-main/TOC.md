@@ -18,8 +18,7 @@ auto-video-transcripts: true
   + [Design email content from scratch](/help/design-the-delivery/create-email-content-from-scratch.md)
   + [Create an email by uploading HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
   + [Preview and proof an email delivery](/help/deliveries/preview-and-proof-an-email-delivery.md)
-  + [Create and improve email content with the Content Assistant](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-  + [Create content with the AI Assistant in Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
+  + [Create content using the AI Assistant for content generation](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
   + [Create a direct mail delivery](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Content management {#content-management}
   + [Enhance a delivery with dynamic content](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
