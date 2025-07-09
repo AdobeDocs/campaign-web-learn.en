@@ -1,5 +1,5 @@
 ---
-title: Create content using the AI Assistant for content generation
+title: Create Content Using AI Assistant for Content Generation
 description: Learn how to use Adobe's AI Assistant Content Accelerator to quickly generate and customize marketing emails, including subject lines, body text, and images, while integrating brand-approved assets for consistency and compliance.
 feature: Email Design
 role: Admin, Developer, Leader, User
@@ -12,7 +12,7 @@ hidefromtoc: no
 hide: no
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 ---
-# Create content using the AI Assistant for content generation
+# Create content using AI Assistant for content generation
 
 Learn how to use Adobe's AI Assistant Content Accelerator to quickly generate and customize marketing emails, including subject lines, body text, and images, while integrating brand-approved assets for consistency and compliance.
 
