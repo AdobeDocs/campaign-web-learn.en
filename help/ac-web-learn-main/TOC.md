@@ -18,10 +18,10 @@ auto-video-transcripts: true
   + [Design email content from scratch](/help/design-the-delivery/create-email-content-from-scratch.md)
   + [Create an email by uploading HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
   + [Preview and proof an email delivery](/help/deliveries/preview-and-proof-an-email-delivery.md)
-  + [Create content using the AI Assistant for content generation](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
   + [Create a direct mail delivery](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Content management {#content-management}
   + [Enhance a delivery with dynamic content](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+  + [Create content using the AI Assistant for content generation](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
 + Profiles and audiences {#profiles-and-audiences}
   + [Explore Profiles](/help/profiles-and-audiences/explore-profiles.md)
   + [Create and manage test profiles](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
