@@ -29,6 +29,7 @@ auto-video-transcripts: true
   + [Create an audience with Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
   + [Create a targeting workflow](/help/workflows/create-a-targeting-workflow.md)
+  + [Configure java script code activity](/help/workflows/configure-java-script-code-activity.md)
 + Experience League Live recordings {#exl-live-recordings}
   + [Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
 + [Campaign Client Console tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
