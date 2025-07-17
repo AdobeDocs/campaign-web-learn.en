@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 239
 last-substantial-update: 2025-07-17
 jira: KT-18209
+exl-id: 569e127b-afba-4a9c-bdd9-a8ea65cd21b1
 ---
-
 # Configure JavaScript code activity
 
 Learn how to effectively use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. 
