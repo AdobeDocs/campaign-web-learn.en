@@ -1,6 +1,6 @@
 ---
-title: Configure JavaScript code activity
-description: Learn how to effectively use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. You will see real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations.
+title: Configure JavaScript Code Activity
+description: Learn how to effectively use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. 
 feature: Workflows
 role: Developer, User
 level: Experienced
