@@ -9,7 +9,9 @@ exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
 ---
 # Adobe Campaign Web User Interface Tutorials
 
-Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface. New videos are added regularly.
+Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the features and capabilities of the Adobe Campaign Web User Interface.
+
+ Try the [clickable demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 
 Campaign platform customization based on business and data needs, and connection to other systems are managed in the Campaign client console. As a consequence, some settings and features can only be accessed, created, or managed from Campaign client console. See the [Campaign Web and Client Console guide](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html){target="_blank"} for an overview over the settings and features which will become in future.  
 
