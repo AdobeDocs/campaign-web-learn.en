@@ -13,6 +13,7 @@ auto-video-transcripts: true
 + Get Started {#getting-started}
   + [Adobe Campaign v8 Adoption Guide](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
   + [Explore the Campaign Web User Interface](/help/get-started/explore-the-web-ui.md)
+  + [Interactive demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + Messages and Deliveries {#messages-and-deliveries}
   + [Create an email delivery](/help/deliveries/create-an-email-delivery.md)
   + [Design email content from scratch](/help/design-the-delivery/create-email-content-from-scratch.md)
