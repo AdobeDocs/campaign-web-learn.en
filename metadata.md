@@ -4,8 +4,10 @@ version: Campaign v8, Campaign v8 Web User Interface
 solution: Campaign, Campaign v8, Campaign v8 Web User Interface
 product: adobe campaign-web
 feature-set: Campaign
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 type: Tutorial
-index: yes
+index: true
 git-repo: https://github.com/AdobeDocs/campaign-web-learn.en
 ---
 
