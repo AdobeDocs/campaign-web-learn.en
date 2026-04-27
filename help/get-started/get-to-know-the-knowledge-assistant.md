@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-11-29
 jira: KT-14453
 hidefromtoc: Yes
-hide: Yes
+hide: true
 ---
 
 # Get to know the Knowledge Assistant

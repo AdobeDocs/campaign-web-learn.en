@@ -9,7 +9,7 @@ doc-type: Feature Video
 duration: 206
 last-substantial-update: 2025-06-09
 hidefromtoc: no
-hide: no
+hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
 ---
 # Create content using AI Assistant for content generation
