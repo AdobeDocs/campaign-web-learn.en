@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2023-11-29
 jira: KT-14453
-hidefromtoc: Yes
+hidefromtoc: true
 hide: true
 ---
 
