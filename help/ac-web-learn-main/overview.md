@@ -36,7 +36,7 @@ Campaign platform customization based on business and data needs, and connection
 <div id="staff-picks-section">
 </div>
 
-## Experience League Live events
+## Experience League LIVE events
 
 * **[Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}**
 
