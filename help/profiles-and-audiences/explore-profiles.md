@@ -6,9 +6,19 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 300
-last-substantial-update: 2024-02-13
+last-substantial-update: 2024-02-13T00:00:00.000Z
 jira: KT-14390
 exl-id: 496e5a15-f90d-4901-ae53-3dfbb4d8758f
+TQID: https://experienceleague.adobe.com/4r5nFWOv-4HKG3INHDZyQgU2y6ZTeiQKXChvlSn0ZVM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Explore profiles in the Adobe Campaign Web User Interface
 
