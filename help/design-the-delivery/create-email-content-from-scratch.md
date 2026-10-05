@@ -9,10 +9,20 @@ duration: 624
 last-substantial-update: 2024-02-13T00:00:00.000Z
 jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
-TQID: https://experienceleague.adobe.com/wApLq4rP91kAApsGxKDgCTtWVQHgMpcgKnXoV9v9TjA
+TQID: 'https://experienceleague.adobe.com/wApLq4rP91kAApsGxKDgCTtWVQHgMpcgKnXoV9v9TjA'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
+feature_v2:
+  - id: b631758a-142d-425f-b9aa-f756d85cb979
+    internal-label: Campaign Email Designer
+subfeature_v2:
+  - id: c8da4fdd-eb94-4751-a43c-f82733fb2d6e
+    internal-label: Email design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

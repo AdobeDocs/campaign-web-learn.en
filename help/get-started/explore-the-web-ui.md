@@ -9,10 +9,20 @@ last-substantial-update: 2023-11-29T00:00:00.000Z
 jira: KT-14388
 duration: 592
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
-TQID: https://experienceleague.adobe.com/Bx6fResOSB01S9LIvF9NGoLzFA7UKh7BMHh28Z6GLaY
+TQID: 'https://experienceleague.adobe.com/Bx6fResOSB01S9LIvF9NGoLzFA7UKh7BMHh28Z6GLaY'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
+  - id: ccdd4c6f-8203-4e89-85f0-79883f86f5fd
+    internal-label: Campaign v8 Web User Interface
+feature_v2:
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: e8d937ec-9046-41b5-834b-d22a624e0d37
+    internal-label: Campaign overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
